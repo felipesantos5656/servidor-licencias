@@ -1,0 +1,9 @@
+{
+  "DEMO_EMPRESA": {
+    "nombre": "Empresa Demo",
+    "activa": true,
+    "vence": "2027-12-31",
+    "plan": "estandar",
+    "dominios": ["tuusuario.github.io"]
+  }
+}
